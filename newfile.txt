@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 JavaProject1
 test
 branch
+=======
+JavaProject2
+test1
+branch1
+>>>>>>> ansh
